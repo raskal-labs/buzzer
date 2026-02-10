@@ -10,3 +10,5 @@ package-lock.json
 .twilio-functions/
 assets/.DS_Store
 functions/.DS_Store
+
+reveal_secrets.py
