@@ -1,0 +1,12 @@
+# Secrets - NEVER commit these
+.env
+.env.example
+
+# Dependencies - We install these fresh
+node_modules/
+package-lock.json
+
+# Twilio Build Artifacts
+.twilio-functions/
+assets/.DS_Store
+functions/.DS_Store
